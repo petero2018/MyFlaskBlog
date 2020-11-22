@@ -1,3 +1,6 @@
+flaskblog/__pycache__/
+flaskblog/.idea/
+flaskblog/.DS_Store
 __pycache__/
 .idea/
 .python-version
